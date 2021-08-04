@@ -1,4 +1,4 @@
-# Detectando fraudes e transações com cartões de créditos utilizando *Machine Learning*
+# Detectando fraudes em transações com cartões de créditos utilizando *Machine Learning*
 
 Projeto para detectar transações fraudulentas em cartões de crédito utilizando modelos de **classificação** com a biblioteca *scikit-learn*.
 
