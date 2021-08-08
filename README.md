@@ -1,6 +1,6 @@
 # Detectando fraudes em transações com cartões de créditos utilizando *Machine Learning*
 
-Projeto para detectar transações fraudulentas em cartões de crédito utilizando modelos de **classificação** com a biblioteca *scikit-learn*.
+Projeto para detecção de transações fraudulentas em cartões de crédito utilizando modelos de **classificação** com a biblioteca *scikit-learn*.
 
 #### 🔗  Link para o notebook via nbviewer:
 [Detecção de fraudes em cartões de crédito utilizando Machine Learning by Luis Guimarães - Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/LuisCSGuimaraes/FraudesEmCartoesCreditoML/blob/main/Notebook/DeteccaoFraudeCartoesCreditoML.ipynb)
